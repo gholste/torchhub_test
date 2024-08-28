@@ -1,3 +1,4 @@
+import torch
 import torchvision
 
 def test_model(pretrained=False):
