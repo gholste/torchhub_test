@@ -1,3 +1,5 @@
+dependencies = ['torch']
+
 import torch
 import torchvision
 
